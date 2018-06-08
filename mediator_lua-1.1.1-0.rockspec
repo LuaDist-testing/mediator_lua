@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "mediator_lua"
-version = "1.1-3"
+version = "1.1.1-0"
 -- LuaDist source
 source = {
-  tag = "1.1-3",
+  tag = "1.1.1-0",
   url = "git://github.com/LuaDist-testing/mediator_lua.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/Olivine-Labs/mediator_lua/archive/v1.1.tar.gz",
---   dir = "mediator_lua-1.1"
+--   url = "https://github.com/Olivine-Labs/mediator_lua/archive/v1.1.1-0.tar.gz",
+--   dir = "mediator_lua-1.1.1-0"
 -- }
 description = {
   summary = "Event handling through channels",
